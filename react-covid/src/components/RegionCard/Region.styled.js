@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const StyledRegionCard = styled.div`
   .container {
-    padding: 1rem;
+    padding: 0.5rem;
   }
 
   .card {
